@@ -2,6 +2,8 @@
 
 This project aims to analyze the 10-K filings of a company (in this case, Microsoft) to extract insights related to revenue, debt, and management perspectives. Additionally, it calculates a risk score based on these factors for each year and visualizes the risk scores over time.
 
+## Demo Video is in Description.
+
 ## Tech Stack
 
 ### Python
@@ -21,6 +23,9 @@ Pandas is a powerful data manipulation and analysis library for Python. It is us
 
 ### Matplotlib
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. It is utilized in this project to create a line graph that visualizes the risk scores over time.
+
+### Streamlit
+Streamlit provides fast frontend development for AI/ML projects.
 
 ## Project Structure
 
