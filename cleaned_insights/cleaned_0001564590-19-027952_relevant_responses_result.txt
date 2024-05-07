@@ -1,0 +1,8 @@
+**Revenue in 2019- $125.84 billion**
+**Debt in 2019- $64.46 billion**
+**Management Insights:**
+- Microsoft is focusing on the intelligent cloud and intelligent edge as key growth drivers.
+- The company is investing heavily in Azure, its cloud platform, and its edge computing capabilities.
+- Microsoft is also focused on productivity and business processes, with initiatives like Microsoft 365 and Dynamics 365.
+- The company is committed to security and compliance, with investments in AI-based security and comprehensive compliance coverage.
+**Overall risk score 6/10**

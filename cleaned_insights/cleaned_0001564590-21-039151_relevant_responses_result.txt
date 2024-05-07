@@ -1,0 +1,62 @@
+**For Example-**
+    **Revenue in 2000- $20 billion**
+    **Debt in 2000- $ 1 bilion**
+    **Management insight in 2000- 3 points**
+    **Risk score in 2000- 10%**
+
+**Section 1 Insights:**
+**Revenue in 2022- $168,088 million**
+**Debt in 2022- $71,135 million**
+**Management insight in 2022- 3 points**
+* Driving growth in its core businesses
+* Investing in new products and services
+* Expanding into new markets
+**Risk score in 2022- 20%**
+
+**Section 3 Insights:**
+**Revenue in 2021- Not provided**
+**Debt in 2021- Not provided**
+**Management insight in 2021- 3 points**
+* Strong revenue growth due to increased demand for products and services in cloud computing and digital transformation sectors.
+* Reduction in debt reflects focus on managing costs and improving financial position.
+* Expectations of continued revenue growth and margin expansion due to increasing adoption of technology solutions.
+**Risk score in 2021- 15%**
+
+**Section 5 Insights:**
+**Revenue in 2023- $145,532 million**
+**Debt in 2023- $10.4 billion**
+**Management insight in 2023- 3 points**
+* Accelerating investments in cloud computing, AI, and other growth areas.
+* Commitment to developing new products and services that meet changing customer needs.
+* Confidence in long-term growth prospects.
+**Risk score in 2023- 25%**
+
+**Section 11 Insights:**
+**Revenue in 2023- $193 billion**
+**Debt like revenue in 2023- $14 billion**
+**Debt in 2023- Not provided**
+**Management insight in 2023- 3 points**
+* Intense competition in all markets for products and services.
+* Success in cloud-based services market depends on execution in attracting users and generating revenue.
+* Strategic vision to compete and grow by building best-in-class platforms and productivity services for an intelligent cloud and an intelligent edge infused with artificial intelligence (AI).
+**Risk score in 2023- 20%**
+
+**Section 17 Insights:**
+**Revenue in 2021- $191.2 billion**
+**Debt in 2021- $0**
+**Management insight in 2021- 4 points**
+* Risks due to climate change, including potential increases in the costs of powering and cooling hardware.
+* Global operations expose the company to geopolitical risks, currency fluctuations, and trade policy changes.
+* Reliance on skilled employees and challenges in recruiting and retaining them.
+* Effective succession planning is crucial for the company's long-term success.
+**Risk score in 2021- 15%**
+
+**Section 18 Insights:**
+**Revenue in 2021- $168.081 billion**
+**Debt in 2021- Not provided**
+**Management insight in 2021- 4 points**
+* Heavy investments in infrastructure and devices leading to increased operating costs.
+* Hiring a mix of university and industry talent to compete for talented individuals.
+* Observing improvement in customer advertising spend and savings in operating expenses related to COVID-19 but experiencing weakness in transactional licensing.
+* Monitoring the COVID-19 pandemic and its potential impact on business operations and financial results.
+**Risk score in 2021- 20%**

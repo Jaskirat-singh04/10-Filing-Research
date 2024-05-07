@@ -1,0 +1,52 @@
+**Section 3 Insights:**
+
+- Revenue in 2002- $28.3 billion
+- Revenue in 2003- $32.2 billion
+- Revenue in 2004- $36.8 billion
+
+- Debt in 2002- $4.7 billion
+- Debt in 2003- $6.3 billion
+- Debt in 2004- $7.9 billion
+
+- Management insights:
+   - Microsoft plans to continue significant investment on a broad range of research and product development.
+   - Key areas of focus include emerging markets, new scenarios and market opportunities, and value-added through services.
+   - Microsoft has a network of field sales representatives and field support personnel that solicits orders from distributors and resellers and provides product training and sales support.
+   - Microsoft uses different programs to deliver organizational licensing arrangements to the market, designed to provide flexibility for organizations of various sizes.
+
+- Risk score: 6/10
+
+**Section 9 Insights:**
+
+- Revenue in 2004 increased in all product lines from previous year
+- MSN advertising revenue increased 360 million or 43%
+- Mobile and Embedded Devices revenue growth was driven by unit volume increases
+- Xbox revenue increased 144 million or 9%
+
+- Debt or debt-like revenue in given year: Not mentioned in the provided text.
+
+- Management Insights:
+   - MSN expects advertising and subscription revenue to increase in fiscal 2005
+   - Mobile and Embedded Devices expects demand for Windows Mobile-based devices to increase in fiscal 2005
+   - Xbox console unit volumes and revenue are expected to decrease in fiscal 2005
+   - PC games revenue is expected to decrease in fiscal 2005
+   - Operating margins are expected to improve in fiscal 2005 due to lower unit volumes of negative margin consoles and increased sales of high margin software
+
+- Risk score: 5/10
+
+**Section 13 Insights:**
+
+- Revenue in 2023- $191,033 million
+
+- Debt: No debt in the given year.
+
+- Management Insights:
+   - The company's business model is based on customers paying a fee to license software developed and distributed by the company.
+   - The company believes that its products provide customers with significant advantages in security and productivity and generally have a lower total cost of ownership than open source software.
+   - The company is facing a growing challenge from the non-commercial software model, where open source software is produced by loosely associated groups of unpaid programmers and made available for license to end users without charge.
+   - The company is actively educating consumers about the benefits of licensing genuine products and educating lawmakers about the advantages of a business climate where intellectual property rights are protected.
+   - The company has made and expects to continue making significant investments in research development and marketing for new products, services, and technologies.
+   - The company believes that resolving all of the pending legal claims and lawsuits noted above will not have a material adverse impact on its financial position or results of operations.
+   - The company is devoting significant resources to addressing critical security issues, such as engineering more secure products and providing guidance to help customers protect against computer viruses and other attacks.
+
+- Risk score: 4/10

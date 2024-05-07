@@ -1,0 +1,28 @@
+# Year 2000 Insights:
+Revenue: No revenue information is available in the given text
+Debt: No debt information is available in the given text
+Management Insights: 
+
+* The company is focusing on creating a more personal computing experience through Windows 10, with a focus on security, familiarity, and productivity.
+* The company is investing heavily in datacenters and other infrastructure to support its devices and services.
+* The company is committed to designing and marketing first-party devices to drive innovation, create new categories, and stimulate demand in the Windows ecosystem.
+* The company aims to lead the industry in technology areas such as cloud computing, artificial intelligence, and mixed reality.
+**Risk Score:** 5%
+=========================
+# Year 2007 Insights:
+Revenue: Information is not provided in the context.
+Debt-like revenue: Information is not provided in the context.
+Debt: Information is not provided in the context.
+Management insights: Information is not provided in the context.
+**Risk Score:** 10%
+=========================
+# Year 2015 Insights:
+Revenue: $93.6 billion
+Debt: $12.96 billion
+Management Insights:
+* Microsoft's **transition to a cloud-first, mobile-first world** continued in fiscal year 2015.
+* The company's **Surface business** continued to grow rapidly, with Surface Pro 3 being a key driver of growth.
+* Microsoft's **Phone Hardware business** faced continued challenges, with the company recording goodwill and asset impairment charges of $7.5 billion in the fourth quarter of fiscal year 2015.
+* The company's **D C Other business** continued to grow, driven by strong performance from search advertising, Xbox Live, and Office 365 Consumer.
+* Microsoft's **Commercial business** continued to grow, with the company seeing growth in revenue from Commercial Cloud and server products.
+**Risk Score:** 4%

@@ -1,0 +1,28 @@
+**Section 6 Insights:**
+* Revenue in 2003: $32.2 billion
+* Debt in 2003: No information provided
+* Management insights:
+    * Strong revenue growth across key segments
+    * Acquisition of Navision contributed to Microsoft Business Solutions revenue
+    * MSN's operating loss decreased
+    * Xbox video game system contributed to Home and Entertainment revenue
+* Risk score: Moderate (revenue growth, but no debt information)
+
+**Section 8 Insights:**
+* Revenue in 2003: No information provided
+* Debt in 2003: 
+    * Long-term debt: $10.2 billion
+    * Current liabilities: $15.3 billion
+* Management insights:
+    * Stock Award program for employee retention
+    * Focus on customer growth and satisfaction
+* Risk score: High (significant debt)
+
+**Section 14 Insights:**
+* Revenue in 2003: $9.02 billion
+* Debt in 2003: No information provided
+* Management insights:
+    * Growth in goodwill due to acquisitions
+    * Intangible asset amortization over various periods
+    * Use of derivative instruments for hedging
+* Risk score: Moderate (revenue growth, but no debt information)

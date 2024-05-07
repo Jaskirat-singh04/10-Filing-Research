@@ -1,0 +1,30 @@
+**Section 1**
+**Revenue:** $21.2 billion (2005)
+**Debt:** $0 (2005)
+**Management Insights:**
+* Microsoft expects growth in fiscal year 2006 as compared to fiscal year 2005 in Home and Entertainment primarily driven by the launch of Xbox 360.
+* The company expects its operating income growth rate in fiscal year 2006 to exceed its revenue growth rate.
+* The company expects operating income to reflect lower operating expenses due to lower costs for legal settlements than incurred in fiscal year 2005 and a reduction in stock based compensation expense.
+**Risk Score:** 1%
+
+**Section 11**
+**Revenue:** $29.3 billion (2005)
+**Debt:** No information provided
+**Management Insights:**
+* Growth in Client revenue is expected to continue due to increasing PC shipments and the popularity of laptops.
+* Microsoft intends to focus on reducing piracy in mature markets to drive OEM license growth.
+* Server and Tools revenue growth is anticipated to be influenced by the performance of the overall information technology market.
+* Microsoft plans to invest heavily in the development of Windows Vista and marketing initiatives in fiscal year 2006.
+* The company anticipates increased competition from Linux-based and other server operating systems.
+**Risk Score:** 2%
+
+**Section 15**
+**Revenue:** $58.4 billion (2005)
+**Debt:** $0 (2005)
+**Management Insights:**
+* The company has a philosophy of maintaining a balance sheet with a large component of cash and short-term investments, equity, and other investments.
+* The company regularly assesses its investment management approach based on current and potential future needs.
+* The company believes its existing cash and short-term investments, along with funds generated from operations, should be sufficient to meet operating requirements, quarterly dividends, and planned share repurchases.
+* The company had a share repurchase program to buy back up to $30 billion in Microsoft common stock over four years.
+* The company indemnifies customers against claims of intellectual property infringement, but has not accrued any liabilities related to these indemnifications to date.
+**Risk Score:** 1%

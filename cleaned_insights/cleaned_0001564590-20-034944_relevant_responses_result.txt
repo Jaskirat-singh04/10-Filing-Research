@@ -1,0 +1,29 @@
+**Section 1 Insights:**
+
+**Revenue in 2020:** $143,015 million
+**Debt in 2020:** $64,664 million
+**Management Insights in 2020:**
+    * Strong revenue growth driven by cloud products and services
+    * Plans to invest heavily in cloud business in 2021
+    * Long-term growth prospects remain strong due to increasing demand for cloud products and services
+**Risk Score:** 10%
+
+**Section 17 Insights:**
+
+**Revenue in 2020:** Increased by 14% compared to 2019
+**Debt in 2020:** Not available in the provided text
+**Management Insights in 2020:**
+    * Continued growth in Intelligent Cloud segment, driven by Azure
+    * Ongoing investments in cloud engineering, LinkedIn, Devices, and Gaming
+    * Strong financial position provides flexibility to invest in new growth opportunities
+**Risk Score:** 20%
+
+**Section 19 Insights:**
+
+**Revenue in 2021:** $42.7 billion
+**Debt in 2021:** $10.4 billion
+**Management Insights in 2021:**
+    * Plans to continue investing in cloud offerings
+    * Strong liquidity position
+    * Uncertainty in current economic environment due to COVID-19
+**Risk Score:** 30%
